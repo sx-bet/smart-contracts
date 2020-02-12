@@ -1,5 +1,5 @@
 
-![SportX Logo](https://github.com/sportx-bet/smart-contracts/blob/master/sportx_logo_.png "SportX Logo")
+![SportX Logo](https://github.com/sportx-bet/smart-contracts/blob/master/sportx_logo.png "SportX Logo")
 
 
 # SportX Smart Contracts
