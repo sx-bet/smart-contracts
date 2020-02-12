@@ -1,0 +1,22 @@
+{
+  "name": "@sportx-bet/smart-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for SportX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sportx-bet/smart-contracts.git"
+  },
+  "author": "info@sportx.bet",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sportx-bet/smart-contracts/issues"
+  },
+  "homepage": "https://github.com/sportx-bet/smart-contracts#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.3"
+  }
+}
