@@ -1,3 +1,7 @@
+
+![SportX Logo](https://github.com/sportx-bet/smart-contracts/sportx_julian.png "SportX Logo")
+
+
 # SportX Smart Contracts
 This repo contains all the smart contracts that help run SportX. 
 
