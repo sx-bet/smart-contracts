@@ -1,0 +1,1 @@
+{"abi":[{"constant":true,"inputs":[],"name":"ODDS_PRECISION","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"}],"networks":{}}
