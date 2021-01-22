@@ -1,6 +1,6 @@
 {
   "name": "@sportx-bet/smart-contracts",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Smart contracts for SportX",
   "main": "index.js",
   "scripts": {
